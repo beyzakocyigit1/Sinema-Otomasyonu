@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Lenovo\source\repos\Projem_\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
